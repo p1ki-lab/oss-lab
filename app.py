@@ -10,4 +10,5 @@ print("debug")
 def login(id,pw)
     print("hi")
 
-
+def logout(user):
+    print(f"{user}logout!")
